@@ -1,0 +1,12 @@
+.cd {
+  width: 10px;
+  height: 10px;
+  background-color: black;
+  margin:2.5px;
+  float:left;
+}
+
+.content {
+	width:240px;
+	margin:0 auto;
+}
