@@ -1,8 +1,8 @@
 .cd {
-  width: 10px;
-  height: 10px;
+width:13px;
+height:13px;
   background-color: black;
-  margin:2.5px;
+  margin:1px;
   float:left;
 }
 
@@ -15,4 +15,9 @@
 
 .content:hover {
 	background-color:gray;
+}
+
+#button {
+	width:80px;
+	margin:0 auto;
 }
